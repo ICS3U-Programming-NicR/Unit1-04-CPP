@@ -9,8 +9,8 @@
 using std::cout;
 
 
-int area = 7*8;
-int perimeter = 2*(7+8);
+int area = 7 * 8;
+int perimeter = 2 * (7 + 8);
 int main() {
     cout << "If a rectangle has the dimensions:\n7cm x 8cm\n";
     cout << "The area is: " <<area;
